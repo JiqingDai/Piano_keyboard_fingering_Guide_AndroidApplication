@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Digital Piano Finger Guide</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_register">Register Now</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="hint_email">Enter your e-mail address</string>
+    <string name="hint_username">Enter your user name</string>
+    <string name="hint_confirm_password">Confirm your password</string>
+</resources>
